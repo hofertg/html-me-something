@@ -1,0 +1,66 @@
+html {
+    font-size:20px;
+    line-height:1.2;
+    background-color:#eeeeee;
+    font-family:Heveltica;
+}
+header, footer{
+    text-align:center;
+    background-color:#aaaaaa;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+body {
+    max-width:800px;
+    margin:auto;
+}
+p {
+    margin:auto;
+    text-align:justify;
+    padding: 0.5rem;
+}
+figure {
+    clear:left;
+    padding-top: 2rem;
+    text-align:center;
+}
+figcaption {
+    font-style:italic;
+}
+.smallimage {
+    max-height:320px;
+    max-width:320px;
+    float:left;
+    margin-right: 1rem;
+}
+.section {
+    clear:left;
+    text-align:left;
+    padding-top:3rem;
+}
+.subsection {
+    clear:left;
+    text-align:center;
+    padding-top:1rem;
+}
+.subsubsection {
+    text-align:left;
+}
+.titlelink{
+    text-decoration:none;
+    color:inherit;
+}
+.subtitlelink {
+    text-decoration:none;
+}
+#authorname {
+   text-align:center;
+}
+#maintitle {
+    font-size:3rem;
+}
+#mainsubtitle {
+    font-size:2rem;
+}
