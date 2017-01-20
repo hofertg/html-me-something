@@ -42,6 +42,8 @@ figcaption {
 }
 .subsection {
     clear:left;
+}
+.subsection h3 {
     text-align:center;
     padding-top:1rem;
 }
